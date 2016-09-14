@@ -28,7 +28,7 @@
   background-image: url('../img/lb_ban_lg.jpg');
   background-position: right;
   background-size: cover;
-  height: 687px;
+  height: 100vh;
 }
 .jumbotron .h1, .jumbotron h1 {
   font-family: 'Roboto Slab', serif;
@@ -114,7 +114,7 @@
   padding: 10px;
 }
 .btn-default {
-  color: #000;
+  color: #0095c8;
   background-color: #fff;
   border: 2px solid #add8e6;
   margin: 5px;
