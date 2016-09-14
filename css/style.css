@@ -28,7 +28,7 @@
   background-image: url('../img/lb_ban_lg.jpg');
   background-position: right;
   background-size: cover;
-  height: 687px;
+  height: 100vh;
 }
 .jumbotron .h1, .jumbotron h1 {
   font-family: 'Roboto Slab', serif;
@@ -36,7 +36,7 @@
   font-weight: bold;
   color: #fff;
   text-align: center;
-  margin-top: 240px;
+  margin-top: 180px;
 }
 
 .jumbotron p {
@@ -44,6 +44,7 @@
   font-size: 32px;
   font-weight: 500;
   color: #fff;
+  text-transform: uppercase;
   text-align: center;
   margin-top: -10px;
 }
@@ -114,7 +115,7 @@
   padding: 10px;
 }
 .btn-default {
-  color: #000;
+  color: #0095c8;
   background-color: #fff;
   border: 2px solid #add8e6;
   margin: 5px;
@@ -133,15 +134,15 @@ footer {
   font-size: 25px; !important;
   text-align: center;
   color: #0095c8;
-  margin: 0px 4px;
-  padding: 4px;
+  margin: 0px 3px;
+  padding: 3px;
   width: 35px;
   height: 35px;
   border-radius: 100%;
 }
 #copyright {
   font-family: 'Poppins', sans-serif;
-  font-size: 8px;
+  font-size: 7px;
   text-align: right;
   color: #fff;
   margin-top: -40px;
