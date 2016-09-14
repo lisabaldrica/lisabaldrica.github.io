@@ -5,14 +5,14 @@
   background-color: rgba(121, 68, 36, 0.6);
   border: none;
 }
-  .navbar-brand {
-    background-image: url("../img/lb_brand-1.png");
-    background-position: center;
-    background-size: contain;
-    background-repeat: no-repeat;
-    display: inline-block;
-    min-height: 10px;
-    width: 120px;
+.navbar-brand {
+  background-image: url("../img/lb_brand-1.png");
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  display: inline-block;
+  min-height: 10px;
+  width: 120px;
 }
 .navbar-default .navbar-nav>li>a {
   font-family: 'Poppins', sans-serif;
@@ -36,9 +36,8 @@
   font-weight: bold;
   color: #fff;
   text-align: center;
-  margin-top: 180px;
+  margin-top: 190px;
 }
-
 .jumbotron p {
   font-family: 'Poppins', sans-serif;
   font-size: 32px;
@@ -48,15 +47,15 @@
   text-align: center;
   margin-top: -10px;
 }
-
 /* projects */
 .projectshead {
-    font-family: 'Roboto Slab', serif;
-    font-size: 42px;
-    font-weight: bold;
-    color: #0095c8;
-    text-align: center;
-    margin-bottom: 20px;
+  font-family: 'Roboto Slab', serif;
+  font-size: 42px;
+  font-weight: bold;
+  color: #0095c8;
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 20px;
 }
 .thumbnail {
   border: 1px solid #0095c8;
@@ -87,6 +86,7 @@
 /* about */
 #aboutbox {
   background-color: #add8e6;
+  height: 100%vh;
 }
 #aboutcopy {
   font-family: 'Poppins', sans-serif;
