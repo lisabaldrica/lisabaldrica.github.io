@@ -29,6 +29,9 @@
   background-position: right;
   background-size: cover;
   height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .jumbotron .h1, .jumbotron h1 {
   font-family: 'Roboto Slab', serif;
@@ -36,7 +39,6 @@
   font-weight: bold;
   color: #fff;
   text-align: center;
-  margin-top: 195px;
 }
 
 .jumbotron p {
